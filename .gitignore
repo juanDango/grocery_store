@@ -242,6 +242,7 @@ env.bak/
 venv.bak/
 grocery_store
 GroceryStoreDataset-master/
+GroceryStoreDataset/
 
 # Spyder project settings
 .spyderproject
@@ -285,5 +286,6 @@ poetry.toml
 pyrightconfig.json
 
 /datos
+Taller2.pdf
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,macos,images
