@@ -19,7 +19,7 @@ El proyecto incluye:
 
 ## Resultados Principales
 - Precisión promedio (macro y micro): 0.97
-- Pérdida final de test: 0.3
+- Pérdida final de test: 0.03
 - Punto de equilibrio (ROI): 0.26 meses (~8 días).
 - Ahorro mensual estimado: 1,728,000 COP.
 
@@ -35,7 +35,7 @@ El proyecto incluye:
 └── requirements.txt  
 ```
 
-Los notebooks se pueden correr, primero `data_understanding.ipynb`, seguido de `neural_networks.ipynb`
+Los notebooks se pueden correr completamente, primero `data_understanding.ipynb`, seguido de `neural_networks.ipynb`
 
 ## Referencias
 
