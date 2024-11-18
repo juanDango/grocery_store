@@ -28,8 +28,10 @@ El proyecto incluye:
 ```
 ├── neural_networks.ipynb          
 ├── data_understanding.ipynb
-├── data.pickle
+├── data.pickle     ## No se cargo al repo, pero resulta de la ejecucion del primer notebook!
 ├── README.md
+├── Presentación.pdf  
+├── taller_2.docx  
 └── requirements.txt  
 ```
 
